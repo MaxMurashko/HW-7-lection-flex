@@ -75,7 +75,12 @@ html,body {
     color: #8D96BD;
 }    
 .email-field {
-    padding: 1rem 4rem;
+    background-color: #EFEFF7;
+    border: transparent;
+    padding-top: 1.2rem;
+    padding-bottom: 1.2rem;
+    padding-left: 1rem;
+    padding-right: 3.75rem;
 }
 .save-button {
     padding: 1.1rem 3rem;
